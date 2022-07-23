@@ -2,12 +2,10 @@
 First of all, data cleaning and editing processes were performed by using vehicle data and data preprocessing techniques. In the second step, used car prices were estimated by using five different machine learning techniques and the results of five different machine learning models were compared for random forest regression, XGBoost, gradient boosting (GBM), light GBM and bag trees.
 ## Results
 - Random Forest
- Accuracy= 0.9299523258813497
- 
- Mean Absolute Error: 7.961322908879738
- 
- Mean Squared Error: 172.0275014173591
- Root Mean Squared Error: 13.115925488403748
+ > Accuracy= 0.9299523258813497
+ > Mean Absolute Error: 7.961322908879738
+ > Mean Squared Error: 172.0275014173591
+ > Root Mean Squared Error: 13.115925488403748
 - XGBoost model
  Accuracy= 0.9337412993567273
  Mean Absolute Error: 7.74601967504125
