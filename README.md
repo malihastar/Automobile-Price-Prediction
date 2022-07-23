@@ -3,7 +3,9 @@ First of all, data cleaning and editing processes were performed by using vehicl
 ## Results
 - Random Forest
  Accuracy= 0.9299523258813497
+ 
  Mean Absolute Error: 7.961322908879738
+ 
  Mean Squared Error: 172.0275014173591
  Root Mean Squared Error: 13.115925488403748
 - XGBoost model
